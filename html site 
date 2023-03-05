@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+   <head>
+
+      <title> Adam Kasseb Voiture page </title>
+      <meta name="description". content="this is the profile of Adam">
+      <meta charset="UTF-8">
+
+       <link-rel="stylesheet"•href="https://use.fontawesome.com/releases/ v5.2.0/css/all.cssintegrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK /iSvJ+a4+00wXq79V+lsFkW54b0GbiDQ"•crossorigin="anonymous">
+         <head>
+       <link rel="stylesheet" href="style.css">
+
+   </head>
+   
+   <body>
+
+       <ul class="menu">
+          <li>
+              <a href="https://www.autoaubaine.com/actualite-automobile/chronique-Top-10-des-meilleures-grandes-voitures-de-luxe-en-2022-55309.html">les tops sorties 2022</a>
+          </li>
+          <li>
+               <a href="https://www.autoaubaine.com/actualite-automobile/chronique-Top-10-des-vehicules-electriques-de-luxe-en-2022-55464.html">voiture luxe électrique  </a>
+           </li>
+           <li>
+               <a href="https://fr.motorsport.com/f1/standings/2022/">résultat formule 1 2022</a>
+          </li>
+        </ul>
+
+         <div id="profile">
+
+         <h1> Adam voiture fan <h1>
+             
+
+                <img src="https://cdn.webshopapp.com/shops/258831/files/416863611/image.jpg" class="voiture">
+      </div>
+
+      <div>
+         <h2> Ma passion <h2>
+             
+             <p class="normal"> Bonjour,
+              moi c'est Adam , et depuis petit je m'interresse au voiture et j'ai donc décidé de partager cette passion avec vous 
+             </p> 
+
+            
+      </div>
+
+      <div id="profile">
+       <h4 class="souligné"> Mes sportives préférées <h4>
+         <table border="0" cellpadding="0" cellspacing="0" width="100%">
+             <tr>
+               <th width="50%" align="center"> <h5> BMW M5 </h5> </th>
+               <th width="50%" align="center"> <h6> Range Rover SVR </h6> <th>
+             </tr>
+             <tr>
+               <td align="center" valign="top"> <a href="https://www.bmw.fr/fr/tous-les-modeles/m-series/m5-sedan/2021/bmw-serie-5-berline-m-apercu.html" target="_blank"> <img src="https://www.tuningblog.eu/wp-content/uploads/2022/09/Ramon-Performance-BMW-M5-F90-Stingray-Tuning-22.jpg" alt="Purple Lavender" class="photo-actu" />
+               </td>
+               <td align="center" valign="top"> <a href="https://www.groupe-grim.com/jaguar-land-rover/range-rover-sport-svr/" target="_blank"> <img src="https://img4.autodeclics.com/photo_article/100827/39829/1200-L-range-rover-svr-ultimate-edition-2021-luxe-classe-et-sonorit.jpg"  alt="fin de contrat" class="photo-actu" />
+               </td>
+            </tr>
+         </table>
+      </div>
+
+
+
+
+   </body>
+
+
+</html>
+
+
